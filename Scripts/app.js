@@ -1,15 +1,13 @@
 /* Main JavaScript file */
 // global scope
 /**
- * FileName : app.js
+ * FileName : app.css
  * 
  * @author Joanne Jung
  * @date June 8, 2016
- * @version 1.0.2 : Updated app.js to work on all pages
- * 
+ *
  * Student ID : 300432364
- * website : http://joannejung-assign2-updated-miniportfolio.azurewebsites.net
- * @description This file is the  main JavaScript file for the miniportfolio updated version
+ * website : http://comp125-lab3-joanne.azurewebsites.net/index.html
  */
 
 //IIFE - Immediately Invoked Functiona Expression
